@@ -1,0 +1,10 @@
+D:\D_repos\MyIoTApp\MyIoTApp\obj\ARM\Debug\App.g.i.cs
+D:\D_repos\MyIoTApp\MyIoTApp\obj\ARM\Debug\App.g.cs
+D:\D_repos\MyIoTApp\MyIoTApp\obj\ARM\Debug\MainPage.g.i.cs
+D:\D_repos\MyIoTApp\MyIoTApp\obj\ARM\Debug\MainPage.g.cs
+D:\D_repos\MyIoTApp\MyIoTApp\obj\ARM\Debug\XamlTypeInfo.g.cs
+D:\D_repos\MyIoTApp\MyIoTApp\obj\ARM\Debug\App.xaml
+D:\D_repos\MyIoTApp\MyIoTApp\obj\ARM\Debug\MainPage.xaml
+D:\D_repos\MyIoTApp\MyIoTApp\obj\ARM\Debug\App.xbf
+D:\D_repos\MyIoTApp\MyIoTApp\obj\ARM\Debug\MainPage.xbf
+D:\D_repos\MyIoTApp\MyIoTApp\obj\ARM\Debug\XamlSaveStateFile.xml
